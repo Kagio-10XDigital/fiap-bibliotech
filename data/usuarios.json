@@ -1,0 +1,23 @@
+[
+  {
+    "ra": "RM123456",
+    "nome": "João Silva",
+    "email": "rm123456@fiap.com.br",
+    "curso": "Engenharia de Computação",
+    "ativo": true
+  },
+  {
+    "ra": "RM654321",
+    "nome": "Maria Souza",
+    "email": "rm654321@fiap.com.br",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "ativo": true
+  },
+  {
+    "ra": "RM559212",
+    "nome": "Kagio Miura",
+    "email": "rm559212@fiap.com.br",
+    "curso": "3ECR",
+    "ativo": true
+  }
+]
